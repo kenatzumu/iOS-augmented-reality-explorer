@@ -8,5 +8,30 @@
     "libraryIdentifier" : "c60dabd37be8dc4b483045a757096c8a",
     "format" : "image",
     "displayName" : "Bujor.jpeg"
+  },
+  {
+    "libraryIdentifier" : "3606c27f34258dc9208487b7332fd160",
+    "format" : "model",
+    "displayName" : "Simple_Flower_Loop.usdz"
+  },
+  {
+    "libraryIdentifier" : "7ea7c07f4a6da76af37e36717d525996",
+    "format" : "model",
+    "displayName" : "Flower.usdz"
+  },
+  {
+    "libraryIdentifier" : "54b3f1c3dca189ee10f23368ee0391bf",
+    "format" : "model",
+    "displayName" : "Totoro.usdz"
+  },
+  {
+    "libraryIdentifier" : "b61891f30faaf2ae409d89fa86a54a3f",
+    "format" : "model",
+    "displayName" : "Paradox_Abstract_Art_of_Python.usdz"
+  },
+  {
+    "libraryIdentifier" : "c184e87bbc58118bf01f857e5c8263e0",
+    "format" : "model",
+    "displayName" : "Abstract_Core.usdz"
   }
 ]
