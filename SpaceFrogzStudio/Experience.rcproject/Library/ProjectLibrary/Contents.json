@@ -5,11 +5,6 @@
     "displayName" : "SpaceFrogzStudio.png"
   },
   {
-    "libraryIdentifier" : "c60dabd37be8dc4b483045a757096c8a",
-    "format" : "image",
-    "displayName" : "Bujor.jpeg"
-  },
-  {
     "libraryIdentifier" : "3606c27f34258dc9208487b7332fd160",
     "format" : "model",
     "displayName" : "Simple_Flower_Loop.usdz"
@@ -33,5 +28,45 @@
     "libraryIdentifier" : "c184e87bbc58118bf01f857e5c8263e0",
     "format" : "model",
     "displayName" : "Abstract_Core.usdz"
+  },
+  {
+    "libraryIdentifier" : "13b64a348fbfd93a5c6b84ebef237530",
+    "format" : "model",
+    "displayName" : "Dry_flower.usdz"
+  },
+  {
+    "libraryIdentifier" : "0055e610b0201eee64bdcdd6a6d66e64",
+    "format" : "model",
+    "displayName" : "Grass.usdz"
+  },
+  {
+    "libraryIdentifier" : "799d6fb4165f0a141d00eb83c4339af1",
+    "format" : "model",
+    "displayName" : "Grass (1).usdz"
+  },
+  {
+    "libraryIdentifier" : "0b33e50fee95e4ec17aa25ac565a0394",
+    "format" : "model",
+    "displayName" : "AbstractRainbowTranslucentPendant.usdz"
+  },
+  {
+    "libraryIdentifier" : "04add481a020b8e504be6638a8ee56f0",
+    "format" : "model",
+    "displayName" : "Dodecahedron_variation.usdz"
+  },
+  {
+    "libraryIdentifier" : "414d342b8e6ac16bc3641ea2d0dcb278",
+    "format" : "model",
+    "displayName" : "Norman_Calberg_Form.usdz"
+  },
+  {
+    "libraryIdentifier" : "2315da6d9671a410221949b5b7fa077d",
+    "format" : "image",
+    "displayName" : "low-poly-grid-haikei.png"
+  },
+  {
+    "libraryIdentifier" : "7e9ff2c9b79e51855cbd16726f1fe429",
+    "format" : "image",
+    "displayName" : "low-poly-grid-haikei.png"
   }
 ]
