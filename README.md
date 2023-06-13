@@ -1,4 +1,5 @@
 # iOS-augmented-reality-explorer
+![441shots_so](https://github.com/sunshaped/iOS-augmented-reality-explorer/assets/37018766/7e571dea-fc34-4405-9748-3f6e46846a5a)
 
 The purpose of this project is to understand the basic principles of 3D objects in the AR world.
 
@@ -15,3 +16,6 @@ The purpose of this project is to understand the basic principles of 3D objects 
 - Background generated using [Haikei](https://app.haikei.app/)
 
   Haikei is a web application that allows users to generate customizable and visually appealing geometric shapes backgrounds. It was used to create the image anchor that ARKit detects in the physical environment.
+  
+## ☀️ Screenshots:
+![291shots_so](https://github.com/sunshaped/iOS-augmented-reality-explorer/assets/37018766/e0b68d0c-b768-4ba2-af63-b7c4b823bd17)
