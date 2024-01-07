@@ -20,4 +20,5 @@ The purpose of this project is to understand the basic principles of 3D objects 
 ## ☀️ Screenshots:
 ![291shots_so](https://github.com/sunshaped/iOS-augmented-reality-explorer/assets/37018766/e0b68d0c-b768-4ba2-af63-b7c4b823bd17)
 
+## 🎬 Patterns Detectable by Augmented Reality:
 ![74613341](https://github.com/pixlbyhorik/iOS-augmented-reality-explorer/assets/37018766/b5b2ce3e-b382-4849-b17a-672f3de0ae64)
